@@ -1,5 +1,15 @@
 
 
+.border{
+
+  width: 21.5rem;
+height: 5rem;
+  border: solid 2px rgb(9, 9, 10);
+  border-radius: 20px;
+  margin: 10rem;
+  padding-top: 30px;
+}
+
 .button {
   padding: 10px 20px;
   background-color: #3498db;
@@ -11,7 +21,7 @@
 }
 
 .button:hover {
-  animation: bounce 0.5s ease forwards;
+  animation: bounce 0.8s ease forwards;
 }
 
 /* Define the bounce animation */
